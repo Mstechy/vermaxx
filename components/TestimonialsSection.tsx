@@ -17,19 +17,19 @@ const TESTIMONIALS: Testimonial[] = [
   },
   {
     id: "t2",
-    name: "Chinedu M.",
+    name: "Victoria W.",
     role: "Web Development Student",
     feedback:
       "The Web Development Mastery course gave me real skills. I built my first portfolio site confidently.",
-    image: "/testimonials/chinedu.jpg",
+    image: "/testimonials/victoria.jpg",
   },
   {
     id: "t3",
-    name: "Fatima R.",
+    name: "Clayla R.",
     role: "Founder, E-Shop",
     feedback:
       "The team’s creative design solutions completely transformed our brand identity. Highly recommended!",
-    image: "/testimonials/fatima.jpg",
+    image: "/testimonials/clayla.jpg",
   },
 ];
 
