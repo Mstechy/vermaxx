@@ -1,7 +1,6 @@
 import './globals.css';
 import type { ReactNode } from 'react';
 import Navbar from '../components/Navbar';
-import Footer from '../components/Footer';
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
@@ -15,7 +14,6 @@ export default function RootLayout({ children }: { children: ReactNode }) {
           <main className="flex-1">
             {children}
           </main>
-          <Footer />
         </div>
       </body>
     </html>

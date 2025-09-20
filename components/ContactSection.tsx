@@ -38,8 +38,8 @@ export default function ContactSection() {
 
       {/* Footer Info */}
       <div className="mt-16 text-center text-gray-700 space-y-3">
-        <p>📞 +234 808 965 0396</p>
-        <p>✉ info@vermaxx.com</p>
+        <p>📞 7016323724</p>
+        <p>✉vermaxxdigital@outlook.com</p>
         <div className="flex justify-center gap-6 mt-2">
           <a href="https://facebook.com" className="hover:text-vermaxx-green transition">Facebook</a>
           <a href="https://instagram.com" className="hover:text-vermaxx-green transition">Instagram</a>
