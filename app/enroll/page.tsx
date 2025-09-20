@@ -67,7 +67,7 @@ export default function EnrollPage() {
             Enroll Now
           </button>
           <a
-            href="https://wa.me/2348123456789?text=I%20want%20to%20enroll%20in%20a%20Vermaxx%20course"
+            href="https://wa.me/2347016323724?text=I%20want%20to%20enroll%20in%20a%20Vermaxx%20course"
             target="_blank"
             rel="noopener noreferrer"
             className="flex-1 bg-white text-vermaxx-green border-2 border-vermaxx-green font-semibold py-3 px-6 rounded-lg shadow hover:bg-vermaxx-green hover:text-white transition text-center"
