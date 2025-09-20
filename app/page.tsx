@@ -2,7 +2,7 @@
 import Hero from '../components/Hero';
 import AboutSection from '../components/AboutSection';
 import ServicesSection from '../components/ServicesSection';
-import WorkProcessSection from '../components/WorkProcessSection';
+import WorkProcessSection from '../components/WorkprocessSection';
 import PortfolioSection from '../components/PortfolioSection';
 import AvatarGrid from '../components/AvatarGrid'; // <- import your new team section
 import TestimonialsSection from '../components/TestimonialsSection';
