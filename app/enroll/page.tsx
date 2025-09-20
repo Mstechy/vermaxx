@@ -80,8 +80,8 @@ export default function EnrollPage() {
       {/* Contact Info */}
       <div className="max-w-3xl text-center mt-12">
         <h2 className="text-xl font-semibold text-gray-800 mb-4">Need Help?</h2>
-        <p className="text-gray-600 mb-2">📧 Email: <a href="vermaxxdigital@outlook.com" className="text-vermaxx-green font-medium">info@vermaxx.com</a></p>
-        <p className="text-gray-600 mb-2">📱 WhatsApp: <a href="https://wa.me/7016323724" className="text-vermaxx-green font-medium">+234 812 345 6789</a></p>
+        <p className="text-gray-600 mb-2">📧 Email: <a href="vermaxxdigital@outlook.com" className="text-vermaxx-green font-medium">vermaxxdigital@outlook.com</a></p>
+        <p className="text-gray-600 mb-2">📱 WhatsApp: <a href="https://wa.me/7016323724" className="text-vermaxx-green font-medium">+2347016323724</a></p>
         <p className="text-gray-600">🏢 Office: Ilorin, Nigeria</p>
       </div>
     </section>

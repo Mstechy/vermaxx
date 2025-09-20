@@ -74,7 +74,7 @@ export default function BookPage() {
             Prefer a quick setup? Book directly via WhatsApp.
           </p>
           <a
-            href="https://wa.me/2348012345678"
+            href="https://wa.me/2347016323724"
             target="_blank"
             className="mt-4 inline-block bg-vermaxx-copper text-white px-6 py-3 rounded-lg font-semibold hover:opacity-90"
           >
