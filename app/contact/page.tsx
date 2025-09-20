@@ -46,7 +46,7 @@ export default function ContactPage() {
       {/* Bottom Contact Info */}
       <div className="mt-20 text-center space-y-3 text-gray-700 relative z-10">
         <p className="text-lg font-medium">📞 +2347016323724</p>
-        <p className="text-lg font-medium">✉ info@vermaxx.com</p>
+        <p className="text-lg font-medium">✉ vermaxxdigital@outlook.com</p>
         <div className="flex justify-center gap-6 mt-3">
           <a href="https://facebook.com" className="hover:text-vermaxx-green transition duration-300">Facebook</a>
           <a href="https://instagram.com" className="hover:text-vermaxx-green transition duration-300">Instagram</a>
