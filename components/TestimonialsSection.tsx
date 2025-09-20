@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 type Testimonial = {
   id: string;
   name: string;
@@ -56,11 +58,15 @@ export default function TestimonialsSection() {
               }`}
             >
               {t.image && (
-                <img
-                  src={t.image}
-                  alt={t.name}
-                  className="w-20 h-20 rounded-full object-cover mb-4 mx-auto ring-2 ring-vermaxx-green"
-                />
+                <div className="relative w-20 h-20 mx-auto mb-4">
+                  <Image
+                    src={t.image}
+                    alt={t.name}
+                    fill
+                    sizes="80px"
+                    className="rounded-full object-cover ring-2 ring-vermaxx-green"
+                  />
+                </div>
               )}
 
               {/* Feedback */}
